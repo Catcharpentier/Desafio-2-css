@@ -1,0 +1,55 @@
+table{
+    width: 100%;
+    border-spacing: 0cap;
+}
+#tr_header{
+    background-image:url(../images2/wwmenu.jpg);
+    background-size: cover; 
+    height: 300px;
+    width: 100%;
+}
+#h1_header{
+    color: burlywood; text-align: left;
+    font-family: fantasy;
+    font-style: oblique; 
+    font-size:8cap; 
+    text-decoration: double;
+}
+
+#h1_p{ 
+    color: beige;
+    font-size:large;
+    font-style: oblique;
+    font-family: fantasy;
+    text-align: left;
+}
+.bg_body {
+    background-color: rgb(178, 194, 178);
+}
+
+.ul_style{
+    font-family:fantasy
+}
+
+#tfoot{
+    text-align: center;
+    background-color: rgb(72, 92, 72);
+}
+
+#button{
+    display: inline-block;
+    border-radius: 4px;
+    background-color: rgb(178, 194,178);
+    border: none;
+    color: #080807ee;
+    text-align: center;
+    font-size: 16px;
+    padding: 20px;
+    width: 160px;
+    transition: all 0.5s;
+    margin: 5px;
+}
+
+li{
+    font-size: large;
+}
